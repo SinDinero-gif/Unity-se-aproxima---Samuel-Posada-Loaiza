@@ -1,6 +1,7 @@
 Escena de un juego de supervivencia 3D
 
 Elementos de la Asset Store:
+
 Arboles, rocas y Troncos: https://assetstore.unity.com/packages/3d/environments/landscapes/low-poly-simple-nature-pack-162153
 
 Personaje: https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/free-low-poly-human-rpg-character-219979
