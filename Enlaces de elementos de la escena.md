@@ -9,6 +9,8 @@ Miscelaneos: https://assetstore.unity.com/packages/3d/environments/low-poly-wood
 
 Cabaña y miscelaneos: https://assetstore.unity.com/packages/3d/environments/low-poly-medieval-free-pack-253520
 
+Low Poly Fire: https://assetstore.unity.com/packages/vfx/particles/fire-explosions/low-poly-fire-244190
+
 Agua: https://assetstore.unity.com/packages/tools/particles-effects/lowpoly-water-107563
 
 Cielo: https://assetstore.unity.com/packages/2d/textures-materials/sky/customizable-skybox-174576
